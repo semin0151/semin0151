@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=50BCDF&height=200&section=header&text=Semin%20Oh&fontSize=90&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+<br/><br/>
 **Android Developer**
 
 Java, Kotlin을 사용하는 안드로이드 개발자입니다.

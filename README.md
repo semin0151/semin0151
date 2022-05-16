@@ -3,7 +3,7 @@
 
 # Android Developer
 - 일정 관리 Application "WEDID" 개발  (https://github.com/semin0151/WEDID)
-- 화장실 사용시간 관리 Application "SAFE HIP" 개발 ( https://github.com/judy5050/heathCare)
+- 화장실 사용시간 관리 Application "SAFE HIP" 개발 (https://github.com/judy5050/heathCare/tree/main/Client/HealthCare)
 
 <br/>
 
@@ -25,19 +25,3 @@
 # About Me
 
 [![Tistory Name Badge](https://tistory-readme-stats.vercel.app/api/badge?name=tistory)](https://seminzzang.tistory.com/)
-
-
-<!--
-**semin0151/semin0151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

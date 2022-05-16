@@ -19,6 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semin0151&layout=compact)](https://github.com/semin0151/github-readme-stats)
 
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=semin0151)](https://solved.ac/semin0151)
 
 <br/>
 

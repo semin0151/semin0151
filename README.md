@@ -1,7 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=50BCDF&height=200&section=header&text=Semin%20Oh&fontSize=90&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+**Android Developer**
 
+Java, Kotlin을 사용하는 안드로이드 개발자입니다.
 
-# Android Developer
+부족함을 채우면서 발전하는 모습을 보여드리겠습니다.
+<br/><br/>
+
+# PROJECTS
 - 일정 관리 Application "WEDID" 개발  (https://github.com/semin0151/WEDID)
 - 화장실 사용시간 관리 Application "SAFE HIP" 개발 (https://github.com/judy5050/heathCare/tree/main/Client/HealthCare)
 

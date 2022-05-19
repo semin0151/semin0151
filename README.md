@@ -12,7 +12,7 @@
 <br/><br/>
 
 # PROJECTS
-- 일정 관리 Application "WEDID" 개발  (https://github.com/semin0151/WEDID)
+- 일정 관리 Application "WEDID" 개발  (https://github.com/semin0151/WEDID_portfolio)
 - 화장실 사용시간 관리 Application "SAFE HIP" 개발 (https://github.com/judy5050/heathCare/tree/main/Client/HealthCare)
 
 <br/>

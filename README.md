@@ -1,16 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=50BCDF&height=200&section=header&text=Semin%20Oh&fontSize=90&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-<br/><br/>
-**Android Developer**
-
-안녕하세요. 사용자를 생각하는 안드로이드 개발자입니다.
-
-사용자를 위한 앱을 만들기 위해 여러 프로젝트를 주도적으로 진행했습니다.
-
-참여했던 모든 프로젝트에서 성과를 내면서 역량을 키워왔습니다.
-
-다양한 경험을 했고, 경험을 바탕으로 새로운 결과를 내는것이 제 장점입니다.
-<br/><br/>
-
 # PROJECTS
 - 일정 관리 Application "WEDID" 개발  (https://github.com/semin0151/WEDID_portfolio)
 

@@ -1,5 +1,5 @@
 # PROJECTS
-- 일정 관리 Application "WEDID" 개발  (https://github.com/semin0151/WEDID_portfolio)
+- 일정 관리 Application "GOTZ" 개발  (https://github.com/semin0151/GOTZ_portfolio)
 
 <br/>
 

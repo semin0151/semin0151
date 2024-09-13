@@ -1,5 +1,6 @@
 # Projects
 - 일정 관리 Application "GOTZ" 개발  (https://github.com/semin0151/GOTZ_portfolio)
+- 식사 메뉴 추천 Application "이거나먹어" 개발  (https://github.com/semin0151/EatThis_portfolio)
 
 <br/>
 

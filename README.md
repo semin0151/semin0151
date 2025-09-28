@@ -1,7 +1,5 @@
 # Projects
-- [영화/시리즈 조회 앱 'Watlism'](https://github.com/semin0151/Watlism)
-- [식사 메뉴 추천 앱 "이거나먹어"](https://github.com/semin0151/EatThis_portfolio)
-- [일정 관리 앱 "GOTZ"](https://github.com/semin0151/GOTZ_portfolio)
+- [영화/시리즈 조회 앱 "Watlism"](https://github.com/semin0151/Watlism)
 
 <br/>
 

@@ -2,11 +2,3 @@
 - [영화/시리즈 조회 앱 "Watlism"](https://github.com/semin0151/Watlism)
 
 <br/>
-
-# Skills
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-FE4E1E?style=flat-square&logo=Figma&logoColor=white"/>
-
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=semin015123)](https://solved.ac/semin015123)
-
-<br/>
